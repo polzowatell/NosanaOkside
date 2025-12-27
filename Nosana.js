@@ -58,6 +58,4 @@ Environment="PRIVATE_CONFIG=ignore"
 WantedBy=multi-user.target
 EOF
 exit
-WantedBy=multi-user.target
-EOF
-exit
+
